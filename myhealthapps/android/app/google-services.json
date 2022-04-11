@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430286708872",
+    "project_id": "fyp-chronic-patient",
+    "storage_bucket": "fyp-chronic-patient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430286708872:android:08a87ea7ac43a844117f3d",
+        "android_client_info": {
+          "package_name": "com.example.myhealthapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430286708872-85pt02m8ii3c1obk49hss69588gidv93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myhealthapps",
+            "certificate_hash": "f62a2bde57e7c48382dcd077398c26405afcdf0e"
+          }
+        },
+        {
+          "client_id": "430286708872-hbp0eordtgliuu9tlujnf09du9v1ies7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDMZP2u4qy14vZcUFxlrtalgk7kxVOVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430286708872-hbp0eordtgliuu9tlujnf09du9v1ies7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
